@@ -1,0 +1,53 @@
+#bday_header {
+    display: block;
+    background-color: lightcoral;
+    text-align: center;
+    font-family: sans-serif;
+    color: forestgreen;
+    border-radius: 40px;
+    border: 5px solid black;
+    width: 600px;
+    position: relative;
+    left:300px;
+}
+#bday_goodies{
+    float: left;
+    display: inline-block;
+    font-size: larger;
+    font-family: sans-serif;
+    list-style-image:url("./img/cake.PNG");
+    position: relative ;
+    left: 100px;
+    height: 200px;
+    margin: 50px;
+    padding: 80px;
+    background-color: yellow;
+    border-radius: 40px;
+    border: 5px solid black;
+}
+.listgoodies{
+    text-align: center;
+
+}
+#bday_girl{
+    float: right;
+    position: relative;
+    right: 475px;
+    top: 10px;
+    height: 300px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+#directions{
+    clear: both;
+    text-align: center;
+    position: relative;
+    left: 200px;
+    display: block;
+    width: 600px;
+    background-color: cyan;
+    border: 10px solid black;
+    border-radius: 40px;
+}
